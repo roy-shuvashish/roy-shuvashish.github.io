@@ -1,5 +1,5 @@
 layout: page
-title: Publications
+title: Research
 ---
 
 You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=usWBCk4AAAAJ">Google Scholar profile</a>.
