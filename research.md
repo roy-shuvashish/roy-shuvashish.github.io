@@ -43,4 +43,4 @@ All members of Kirstie's research group are we're committed to working open.
 We believe that by sharing our code, documentation, data (where possible) and works in progress we will be faster at answer the important questions of adolescent brain development and mental health challenges.
 
 You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
-<img src="file://mp.png" width="200"/>
+<img src="file://mp.png" />
