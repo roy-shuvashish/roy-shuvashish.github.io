@@ -3,152 +3,68 @@ layout: page
 title: Research
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=usWBCk4AAAAJ">Google Scholar profile</a>.
-<br />
 
-<h3>
-    <a name='2019'></a> 2019
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
-</strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Learning Transferable Adversarial Examples via Ghost Networks</strong><br />
-          Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Feature Denoising for Improving Adversarial Robustness</strong><br />
-          <b>Cihang Xie</b>, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          This work ranked <b>No.1</b> in the adversarial defense track of <a href="http://hof.geekpwn.org/caad/en/index.html">CAAD 2018 Challenge</a><br />
-          <a href="https://arxiv.org/pdf/1812.03411.pdf">[PDF]</a> <a href="https://github.com/facebookresearch/ImageNet-Adversarial-Training">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Improving Transferability of Adversarial Examples with Input Diversity</strong><br />
-          <b>Cihang Xie</b>, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          <a href="https://arxiv.org/pdf/1803.06978.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DI-2-FGSM">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<h3>
-    <a name='2018'></a> 2018
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Single-Shot Object Detection with Enriched Semantics</strong><br />
-          Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018<br />
-          <a href="https://arxiv.org/pdf/1712.00433.pdf">[PDF]</a> <a href="https://github.com/bairdzhang/des">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion</strong><br />
-          Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018<br />
-          <a href="https://arxiv.org/pdf/1709.04577.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Mitigating Adversarial Effects Through Randomization</strong><br />
-          <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille<br />
-          International Conference on Learning Representations (<strong>ICLR</strong>), 2018<br />
-          This work ranked <b>No.2</b> in the adversarial defense track of <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge</a> <br />
-          <a href="https://arxiv.org/pdf/1711.01991.pdf">[PDF]</a> <a href="https://github.com/cihangxie/NIPS2017_adv_challenge_defense">[CODE]</a> <a href="https://github.com/cihangxie/cihangxie.github.io/blob/master/NIPS_ADV.pdf">[SLIDES]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Adversarial Attacks and Defences Competition</strong><br />
-          Alexey Kurakin, Ian Goodfellow, Samy Bengio, Yinpeng Dong, Fangzhou Liao, Ming Liang, Tianyu Pang, Jun Zhu, Xiaolin Hu, <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, Sangxia Huang, Yao Zhao, Yuzhe Zhao, Zhonglin Han, Junjiajia Long, Yerkebulan Berdibekov, Takuya Akiba, Seiya Tokui, Motoki Abe<br />
-          The NIPS 17 Competition Building Intelligent Systems, Springer International Publishing, 2018<br />
-          <a href="https://arxiv.org/pdf/1804.00097.pdf">[PDF]</a> <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">[WEBSITE]</a><br />
-       </p>
-    </div>
-</div> 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Visual Concepts and Compositional Voting</strong><br />
-          Jianyu Wang, Zhishual Zhang, <b>Cihang Xie</b>, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille<br />
-          Annals of Mathematical Sciences and Applications, 2018<br />
-          <a href="https://arxiv.org/pdf/1711.04451.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Technical Report on the CleverHans v2.1.0 Adversarial Examples Library</strong><br />
-          Nicolas Papernot, Fartash Faghri, Nicholas Carlini, Ian Goodfellow, Reuben Feinman, Alexey Kurakin, <b>Cihang Xie</b>, Yash Sharma, Tom Brown, Aurko Roy, Alexander Matyasko, Vahid Behzadan, Karen Hambardzumyan, Zhishuai Zhang, Yi-Lin Juang, Zhi Li, Ryan Sheatsley, Abhibhav Garg, Jonathan Uesato, Willi Gierke, Yinpeng Dong, David Berthelot, Paul Hendricks, Jonas Rauber, Rujun Long, Patrick McDaniel<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1610.00768.pdf">[PDF]</a> <a href="https://github.com/tensorflow/cleverhans">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<h3>
-    <a name='2017'></a> 2017
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Adversarial Examples for Semantic Segmentation and Object Detection</strong><br />
-          <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille<br />
-          IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2017<br />
-          <a href="https://arxiv.org/pdf/1703.08603.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DAG">[CODE]</a> <a href="https://github.com/cihangxie/cihangxie.github.io/blob/master/DAG.pdf">[SLIDES]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Detecting Semantic Parts on Partially Occluded Objects</strong><br />
-          Jianyu Wang, <b>Cihang Xie</b>, Zhishuai Zhang, Jun Zhu, Lingxi Xie, Alan Yuille<br />
-          British Machine Vision Conference (<strong>BMVC</strong>), 2017<br />
-          <a href="https://arxiv.org/pdf/1707.07819.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div> 
-<h3>
-    <a name='2016'></a> 2016
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Unsupervised learning of object semantic parts from internal states of CNNs by population encoding</strong><br />
-          Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1511.06855.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div>
+We hope you find this site a useful source of information about the work that Kirstie Whitaker and her collaborators are conducting as members of the [Alan Turing Institute](https://www.turing.ac.uk) - the national institute for data science and artificial intelligence - and the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge.
 
+
+### Mental health and adolescent brain development
+
+Adolescence is a period of human brain growth and high incidence of mental health disorders. Kirstie is a member of the [Neuroscience in Psychiatry Network](http://nspn.org.uk): a collaboration between the University of Cambridge and University College London which seeks to better understand adolescent development in brain and behaviour.
+
+Kirstie uses magnetic resonance imaging to investigate changes in the brain’s structure and function. She also uses graph theoretic methods to model the brain as a network. The different parts of the brain do not work alone, they are connected to each other and send messages back and forth in order to generate complex thoughts and social interactions.
+
+In work [published in PNAS](http://dx.doi.org/10.1073/pnas.1601745113) in 2016, the NSPN consortium showed that the particularly well connected regions - the hubs of the network - continue to develop throughout the teenage years, and this may be a mechanism to explain the emergence of mental health disorders during the teenage years.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ztm2knaLBFc" frameborder="0"> </iframe>
+
+### Reproducible research
+
+One of the major focuses of the research within Kirstie's group is to empower researchers to make their work reproducible from beginning to end.
+
+<figure>
+    <a href="https://thenib.com/repeat-after-me">
+      <img alt="reproducibility definition from the nib comic strip"
+           src="https://thenib.imgix.net/usq/a81ad36e-ecfe-46e2-9710-ab4d77d97a09/repeat-after-me-004-c4c849.jpeg?auto=compress,format"
+           width="80%" >
+    </a>
+    <figcaption>Panel from <a href="https://thenib.com/repeat-after-me">Repeat After Me</a>, by <a href="https://thenib.com/maki-naro">Maki Naro</a>.</figcaption>
+</figure>
+
+Reproducible research is work that can be independently verified. In practise it means sharing the data and the code that were used to generate scientific results. Without the evidence of what was done, journal articles are simply nice, interesting stories. All readers, not just collaborators or the original authors, must be able to check published research.
+
+This comic strip, [Repeat After Me](https://thenib.com/repeat-after-me), by [Maki Naro](https://thenib.com/maki-naro) for [The Nib](https://thenib.com/) is a really wonderful explanation of the incentive structure in academic research and how it has contributed to the current reproducibility crisis.
+
+### Working Open
+
+If all research is published reproducibly the scientific community as a whole will benefit.
+We will be more efficient: the current system requires too much time spent reinventing the wheel.
+
+All members of Kirstie's research group are we're committed to working open.
+We believe that by sharing our code, documentation, data (where possible) and works in progress we will be faster at answer the important questions of adolescent brain development and mental health challenges.
+
+You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
+
+### Contact
+
+You can contact Kirstie at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) or on twitter [@kirstie_j](https://twitter.com/kirstie_j).
+
+The lab tweets [@Whitaker_Lab](https://twitter.com/Whitaker_Lab).
+Give us a follow and let us know what you think.
+
+You're very welcome to contact us via [GitHub](https://github.com/whitakerlab) too.
+Check out the issues at the group's [project management](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues) repository.
+You may be able to help us out!
+
+We have a [gitter chat room](https://gitter.im/WhitakerLab/Lobby) and love to say hello there.
+
+This website is hosted via [GitHub pages](https://github.com/WhitakerLab/whitakerlab.github.io).
+If you see any typos or other mistakes please let us know...or file a pull request with your edits.
+
+<!---
+Commented out the code to list recent posts. Might be useful again one day in the future!
+<ul class="post-list">
+{% for post in site.posts limit:10 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+-->
