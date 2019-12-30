@@ -20,6 +20,12 @@ In work [published in PNAS](http://dx.doi.org/10.1073/pnas.1601745113) in 2016, 
 ### Reproducible research
 
 One of the major focuses of the research within Kirstie's group is to empower researchers to make their work reproducible from beginning to end.
+<figure>
+      <img src="img/path.jpg"
+           width="80%" >
+    </a>
+    <figcaption>Panel from <a href="https://thenib.com/repeat-after-me">Repeat After Me</a>, by <a href="https://thenib.com/maki-naro">Maki Naro</a>.</figcaption>
+</figure>
 
 <figure>
     <a href="https://thenib.com/repeat-after-me">
@@ -43,5 +49,5 @@ All members of Kirstie's research group are we're committed to working open.
 We believe that by sharing our code, documentation, data (where possible) and works in progress we will be faster at answer the important questions of adolescent brain development and mental health challenges.
 
 You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
-<img src="file://mp.png" />
-<iframe width="560" height="315" src="//mp.png" frameborder="0"> </iframe>                                                         
+
+                                                      
