@@ -20,12 +20,9 @@ In work [published in PNAS](http://dx.doi.org/10.1073/pnas.1601745113) in 2016, 
 ### Reproducible research
 
 One of the major focuses of the research within Kirstie's group is to empower researchers to make their work reproducible from beginning to end.
-<figure>
-      <img src="img/path.jpg"
-           width="80%" >
-    </a>
-    <figcaption>Panel from <a href="https://thenib.com/repeat-after-me">Repeat After Me</a>, by <a href="https://thenib.com/maki-naro">Maki Naro</a>.</figcaption>
-</figure>
+
+ <img src="img/path.jpg"
+   width="80%" >
 
 <figure>
     <a href="https://thenib.com/repeat-after-me">
