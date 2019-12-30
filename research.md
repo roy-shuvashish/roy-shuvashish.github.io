@@ -44,27 +44,3 @@ We believe that by sharing our code, documentation, data (where possible) and wo
 
 You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
 
-### Contact
-
-You can contact Kirstie at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) or on twitter [@kirstie_j](https://twitter.com/kirstie_j).
-
-The lab tweets [@Whitaker_Lab](https://twitter.com/Whitaker_Lab).
-Give us a follow and let us know what you think.
-
-You're very welcome to contact us via [GitHub](https://github.com/whitakerlab) too.
-Check out the issues at the group's [project management](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues) repository.
-You may be able to help us out!
-
-We have a [gitter chat room](https://gitter.im/WhitakerLab/Lobby) and love to say hello there.
-
-This website is hosted via [GitHub pages](https://github.com/WhitakerLab/whitakerlab.github.io).
-If you see any typos or other mistakes please let us know...or file a pull request with your edits.
-
-<!---
-Commented out the code to list recent posts. Might be useful again one day in the future!
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
--->
