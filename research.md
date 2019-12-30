@@ -44,3 +44,4 @@ We believe that by sharing our code, documentation, data (where possible) and wo
 
 You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
 <img src="file://mp.png" />
+<iframe width="560" height="315" src="//mp.png" frameborder="0"> </iframe>                                                         
