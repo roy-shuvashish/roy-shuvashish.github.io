@@ -21,7 +21,7 @@ In work [published in PNAS](http://dx.doi.org/10.1073/pnas.1601745113) in 2016, 
 
 One of the major focuses of the research within Kirstie's group is to empower researchers to make their work reproducible from beginning to end.
 
- <img src="img/path.jpg"
+ <img src="{{site.baseurl}}/img/path.jpg"
    width="80%" />
 
 <figure>
@@ -50,5 +50,5 @@ You can read more about working open through Mozilla's [Open Leadership Training
                                                       
 <img src="{{site.baseurl}}/img/mp.JPG" width="80%" alt="" />
   
-Image inserted for testing markdown, I don't know why the caption is coming from the left. I will have to find out how to fix it. 
+Image inserted for testing markdown, I don't know why the caption is coming from the left. I will have to find out how to fix it.Got,it! use site.baseurl before the folder. 
 
