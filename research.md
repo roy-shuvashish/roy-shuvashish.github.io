@@ -51,3 +51,4 @@ You can read more about working open through Mozilla's [Open Leadership Training
 <img src="img/mp.JPG" width="80%" />
   
 Image inserted for testing markdown, I don't know why the caption is coming from the left. I will have to find out how to fix it. 
+![mp](mp.JPG)
