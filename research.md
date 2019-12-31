@@ -4,9 +4,8 @@ title: Research
 ---
 
 <p style='text-align: justify;'> 
- We hope you find this site a useful source of information about the work that Kirstie Whitaker and her collaborators are conducting as members of the [Alan Turing Institute](https://www.turing.ac.uk) - the national institute for data science and artificial intelligence - and the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge.
+ We hope you find this site a useful source of information about the work that Kirstie Whitaker and her collaborators are conducting as members of the <a href="https://www.turing.ac.uk"> Alan Turing Institute</a> - the national institute for data science and artificial intelligence - and the <a href="https://www.psychiatry.cam.ac.uk">Department of Psychiatry</a> at the University of Cambridge.
 </p>
-
 
 
 ### Mental health and adolescent brain development
