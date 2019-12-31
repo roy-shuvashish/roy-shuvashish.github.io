@@ -48,7 +48,7 @@ We believe that by sharing our code, documentation, data (where possible) and wo
 You can read more about working open through Mozilla's [Open Leadership Training](https://mozilla.github.io/leadership-training/) program.
 
                                                       
-<img src="img/mp.JPG" width="80%" alt="" />
+<img src="{{site.baseurl}}/img/mp.JPG" width="80%" alt="" />
   
 Image inserted for testing markdown, I don't know why the caption is coming from the left. I will have to find out how to fix it. 
 ![mp](mp.JPG)
